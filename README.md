@@ -7,4 +7,11 @@ Trabalho apresentado para obtenção de notas na disciplina de Tecnicas de Progr
 
 # Equipe
 
+1. Hugo Chaves 
+2. Mayara Vasques
+3. Israel batalha 
+4. João Vítor Pinto
 
+#Projeto
+
+Gerador de Senhas 
