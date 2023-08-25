@@ -9,9 +9,9 @@ Trabalho apresentado para obtenção de notas na disciplina de Tecnicas de Progr
 
 1. Hugo Chaves 
 2. Mayara Vasques
-3. Israel batalha 
+3. Israel Batalha 
 4. João Vítor Pinto
 
-#Projeto
+# Projeto
 
 Gerador de Senhas 
